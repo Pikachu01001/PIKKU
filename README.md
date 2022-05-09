@@ -56,7 +56,7 @@ Fill all variables
 
 # Credits 💖
 
- [``PIKACHU``](https://github.com/Pikachu01001)
+[``PIKACHU``](https://github.com/Pikachu01001)
 
 # [PIKACHU](https://t.me/pikku_04)
 
