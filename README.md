@@ -55,10 +55,10 @@ Fill all variables
 
 
 # Credits 💖
- [``SUKHPAL``](https://github.com/SUKHPAL443)
+
  [``PIKACHU``](https://github.com/Pikachu01001)
-# [BLACK MAMBA](https://t.me/BLACKMAMBA_OFFICIAL)
-# [PIKACHU](https://t.me/pikku01001)
+
+# [PIKACHU](https://t.me/pikku_04)
 
 ### Support & Updates 🎑
 <a href="https://t.me/MAMBA_X_SUPPORT"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/MAMBA_NETWORK"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
